@@ -1,0 +1,4 @@
+include dependencies.txt
+include requirements.txt
+include NAME
+include VERSION
